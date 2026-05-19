@@ -17,4 +17,4 @@
 - Дублирование интерфейса и алертов между Windows Forms и Telegram-ботом
 ## Ссылки
 - Ссылка на презентацию: [TODO]
-- Ссылка на репозиторий с проектом: https://github.com/Nasa1Games/ApartmentRentalSystem
+- Ссылка на репозиторий с проектом: 
